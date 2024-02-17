@@ -1,0 +1,586 @@
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\appsettings.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.staticwebassets.runtime.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.exe
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.deps.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.runtimeconfig.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.pdb
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Azure.Core.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Azure.Identity.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Humanizer.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\JetBrains.Annotations.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\MessagePack.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Build.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Common.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.CodeDom.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Memory.Data.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Text.Json.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\X.PagedList.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.csproj.AssemblyReference.cache
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.AssemblyInfoInputs.cache
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.AssemblyInfo.cs
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.csproj.CoreCompileInputs.cache
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.RazorAssemblyInfo.cache
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.RazorAssemblyInfo.cs
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.WebCafe.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.build.WebCafe.props
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebCafe.props
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebCafe.props
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets.pack.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\scopedcss\bundle\WebCafe.styles.css
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\scopedcss\projectbundle\WebCafe.bundle.scp.css
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.csproj.CopyComplete
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\refint\WebCafe.dll
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.pdb
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.genruntimeconfig.cache
+E:\New folder (15)\New folder (4)\BTL_web\WebCafe\obj\Debug\net6.0\ref\WebCafe.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\appsettings.Development.json
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\appsettings.json
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.staticwebassets.runtime.json
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.exe
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.deps.json
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.runtimeconfig.json
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\WebCafe.pdb
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Azure.Core.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Azure.Identity.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Humanizer.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\JetBrains.Annotations.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\MessagePack.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Common.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.CodeDom.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Text.Json.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\X.PagedList.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Hoa\BTL_web\WebCafe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.csproj.AssemblyReference.cache
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.AssemblyInfoInputs.cache
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.AssemblyInfo.cs
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.csproj.CoreCompileInputs.cache
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.MvcApplicationPartsAssemblyInfo.cs
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.MvcApplicationPartsAssemblyInfo.cache
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.RazorAssemblyInfo.cache
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.RazorAssemblyInfo.cs
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.WebCafe.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.build.WebCafe.props
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebCafe.props
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebCafe.props
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets.build.json
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\staticwebassets.development.json
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\scopedcss\bundle\WebCafe.styles.css
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\scopedcss\projectbundle\WebCafe.bundle.scp.css
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.csproj.CopyComplete
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.dll
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\refint\WebCafe.dll
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.pdb
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\WebCafe.genruntimeconfig.cache
+D:\Hoa\BTL_web\WebCafe\obj\Debug\net6.0\ref\WebCafe.dll
